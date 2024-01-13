@@ -1,0 +1,14 @@
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.exe
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.deps.json
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.runtimeconfig.json
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.dll
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.pdb
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.AssemblyInfoInputs.cache
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.AssemblyInfo.cs
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.dll
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\refint\LosMejoresDeLaClase.dll
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.pdb
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.genruntimeconfig.cache
+C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\ref\LosMejoresDeLaClase.dll
