@@ -8,13 +8,14 @@ namespace LosMejoresDeLaClase.Interfaces
 {
     public interface IJugador
     {
-        string MostrarNombreJugador();
-        int MostrarVelocidad();
-        int MostrarTiro();
-        int MostrarRegate ();
-        int MostrarDefensa();
-        int MostrarPase();
-        int MostrarFisico();
+
+
+        void Correr(object objeto);
+        void Defender(object objeto);
+        void Regatear(object objeto);
+        void Rematar(object objeto);
+        void ColocarPase(object objeto);
+        void SoportarEmbate(object objeto);
 
     }
 }

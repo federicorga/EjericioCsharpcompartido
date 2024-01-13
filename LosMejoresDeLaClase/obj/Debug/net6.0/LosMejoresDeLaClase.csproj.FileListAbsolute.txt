@@ -12,3 +12,18 @@ C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDe
 C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.pdb
 C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.genruntimeconfig.cache
 C:\Users\Maxi\proyectos\curso C#\clase2 consola\LosMejoresDeLaClase\LosMejoresDeLaClase\obj\Debug\net6.0\ref\LosMejoresDeLaClase.dll
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.exe
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.deps.json
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.runtimeconfig.json
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.dll
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\bin\Debug\net6.0\LosMejoresDeLaClase.pdb
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.AssemblyInfoInputs.cache
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.AssemblyInfo.cs
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.csproj.CoreCompileInputs.cache
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.sourcelink.json
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.dll
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\refint\LosMejoresDeLaClase.dll
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.pdb
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\LosMejoresDeLaClase.genruntimeconfig.cache
+D:\CRUSO IT PROGRAMACION\CODERHOUSE\C# BACK-END\EjerciciosCsharpCompartidos\LosMejoresDeLaClase\obj\Debug\net6.0\ref\LosMejoresDeLaClase.dll

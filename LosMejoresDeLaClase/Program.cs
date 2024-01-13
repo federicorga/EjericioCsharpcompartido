@@ -1,13 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 using LosMejoresDeLaClase.Clases;
 
 
-Jugador Messi = new Delantero("Medio","Lionel Messi",45,87,90,94,99,99);
-Jugador Ronaldo = new Delantero("Medio", "Ronaldo", 45, 87, 90, 94, 99, 99);
-Jugador Mbappe = new Delantero("Derecha", "Mbappe", 45, 87, 90, 94, 99, 99);
-Jugador Riquelme = new Delantero("Derecha", "Riquelme", 45, 87, 90, 94, 99, 99);
+Jugador Messi = new Messi("Messi", 21, 22, 23, 25, 26, 27);
+Jugador Ronaldo = new Ronaldo("Ronaldo", 39, 38, 37, 36, 35, 34);
+PrintConsola printConsola = new PrintConsola();
 
-PrintConsola.PrintDatos(Messi);
-PrintConsola.PrintDatos(Ronaldo);
-PrintConsola.PrintDatos(Mbappe);
-PrintConsola.PrintDatos(Riquelme);
+
+PrintConsola.PrintDatosDeObjetos(Messi);
+Console.WriteLine("\n");
+PrintConsola.PrintDatosDeObjetos(Ronaldo);
+Console.WriteLine("\n");
+
+printConsola.ColocarPase(Messi);
+printConsola.ColocarPase(Ronaldo);
+Console.WriteLine("\n");
+printConsola.Correr(Messi);
+printConsola.Correr(Ronaldo);
+Console.WriteLine("\n");
+printConsola.Defender(Messi);
+printConsola.Defender(Ronaldo);
+Console.WriteLine("\n");
+printConsola.Rematar(Messi);
+printConsola.Rematar(Ronaldo);
+Console.WriteLine("\n");
+printConsola.Regatear(Messi);
+printConsola.Regatear(Ronaldo);
+Console.WriteLine("\n");
+printConsola.SoportarEmbate(Messi);
+printConsola.SoportarEmbate(Ronaldo);

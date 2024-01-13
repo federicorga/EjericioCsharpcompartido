@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Hz6BOi8BC4gZ4ls9i6IizAi9ZnaV8ltl7OOqbUiBHoL54T4ROD20lWBcDofrXZuOkUTcnGZ/7yvPGXtjxdniTg==",
+  "dgSpecHash": "tmPykSSWJn0Joydng1H7ydjswKS0A3Ip/H6e1DJA9TsJLfR2+6XTWc8lKR3ng4P8cJr8FfO6rzExd39YzucTvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxi\\Desktop\\ejerciciosCSharp\\EjericioCsharpcompartido\\LosMejoresDeLaClase\\LosMejoresDeLaClase.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\CRUSO IT PROGRAMACION\\CODERHOUSE\\C# BACK-END\\EjerciciosCsharpCompartidos\\LosMejoresDeLaClase\\LosMejoresDeLaClase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Altair\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Altair\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Altair\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Altair\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
