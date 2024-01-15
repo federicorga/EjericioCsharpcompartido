@@ -13,6 +13,37 @@ namespace LosMejoresDeLaClase.Clases
         {
         }
 
+
+
+        /*
+             public override int Correr()
+             {
+                 return base.Correr();
+             }
+             public override int Defender()
+             {
+                 return base.Defender();
+             }
+             public override int Regatear()
+             {
+                 return base.Regatear();
+             }
+
+             public override int Rematar()
+             {
+                 return base.Rematar();
+             }
+
+             public override int SoportarEmbate()
+             {
+                 return base.SoportarEmbate();
+             }
+
+             public override int ColocarPase()
+             {
+                 return base.ColocarPase();
+             }
+         */
     }
 }
 

@@ -2,30 +2,32 @@
 using LosMejoresDeLaClase.Clases;
 
 
-Jugador Messi = new Messi("Messi", 21, 22, 23, 25, 26, 27);
-Jugador Ronaldo = new Ronaldo("Ronaldo", 39, 38, 37, 36, 35, 34);
-PrintConsola printConsola = new PrintConsola();
+Messi messi = new Messi("Messi", 21, 22, 23, 25, 26, 27);
+Jugador ronaldo = new Ronaldo("Ronaldo", 39, 38, 37, 36, 35, 34);
 
 
-PrintConsola.PrintDatosDeObjetos(Messi);
+
+PrintConsola.PrintDatosDeObjetos(messi);
 Console.WriteLine("\n");
-PrintConsola.PrintDatosDeObjetos(Ronaldo);
+PrintConsola.PrintDatosDeObjetos(ronaldo);
 Console.WriteLine("\n");
 
-printConsola.ColocarPase(Messi);
-printConsola.ColocarPase(Ronaldo);
+PrintConsola.Imprimir(messi.Nombre, messi.ColocarPase(),"Coloco un pase");
+PrintConsola.Imprimir(messi.Nombre, messi.Rematar(), "Remato");
+PrintConsola.Imprimir(messi.Nombre, messi.Correr(), "Corrio");
+PrintConsola.Imprimir(messi.Nombre, messi.SoportarEmbate(), "Soporto Embate");
+PrintConsola.Imprimir(messi.Nombre, messi.Regatear(), "Regateo");
+PrintConsola.Imprimir(messi.Nombre, messi.Defender(), "Defendio");
+
 Console.WriteLine("\n");
-printConsola.Correr(Messi);
-printConsola.Correr(Ronaldo);
-Console.WriteLine("\n");
-printConsola.Defender(Messi);
-printConsola.Defender(Ronaldo);
-Console.WriteLine("\n");
-printConsola.Rematar(Messi);
-printConsola.Rematar(Ronaldo);
-Console.WriteLine("\n");
-printConsola.Regatear(Messi);
-printConsola.Regatear(Ronaldo);
-Console.WriteLine("\n");
-printConsola.SoportarEmbate(Messi);
-printConsola.SoportarEmbate(Ronaldo);
+
+PrintConsola.Imprimir(ronaldo.Nombre, ronaldo.ColocarPase(), "Coloco un pase");
+PrintConsola.Imprimir(ronaldo.Nombre, ronaldo.Rematar(), "Remato");
+PrintConsola.Imprimir(ronaldo.Nombre, ronaldo.Correr(), "Corrio");
+PrintConsola.Imprimir(ronaldo.Nombre, ronaldo.SoportarEmbate(), "Soporto Embate");
+PrintConsola.Imprimir(ronaldo.Nombre, ronaldo.Regatear(), "Regateo");
+PrintConsola.Imprimir(ronaldo.Nombre, ronaldo.Defender(), "Defendio");
+
+
+
+

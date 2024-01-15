@@ -10,12 +10,12 @@ namespace LosMejoresDeLaClase.Interfaces
     {
 
 
-        void Correr(object objeto);
-        void Defender(object objeto);
-        void Regatear(object objeto);
-        void Rematar(object objeto);
-        void ColocarPase(object objeto);
-        void SoportarEmbate(object objeto);
+        int Correr();
+        int Defender();
+        int Regatear();
+        int Rematar();
+        int ColocarPase();
+        int SoportarEmbate();
 
     }
 }

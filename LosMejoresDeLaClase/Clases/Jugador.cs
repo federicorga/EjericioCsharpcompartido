@@ -8,7 +8,7 @@ using LosMejoresDeLaClase.Interfaces;
 namespace LosMejoresDeLaClase.Clases
 {
 
-    public abstract class Jugador
+    public abstract class Jugador : IJugador
     {
         protected string nombre;
         protected int defensa;
@@ -37,6 +37,32 @@ namespace LosMejoresDeLaClase.Clases
             this.Velocidad = velocidad;
         }
 
+        public virtual int Correr()
+        {
+            return this.velocidad;
+        }
+        public virtual int Defender()
+        {
+            return this.defensa;
+        }
+        public virtual int Regatear()
+        {
+            return this.regate;
+        }
 
+        public virtual int Rematar()
+        {
+            return this.tiro;
+        }
+
+        public virtual int SoportarEmbate()
+        {
+            return this.fisico;
+        }
+
+        public virtual int ColocarPase()
+        {
+            return this.pase;
+        }
     }
 }
