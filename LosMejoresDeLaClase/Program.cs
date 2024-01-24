@@ -2,15 +2,16 @@
 using LosMejoresDeLaClase.Clases;
 
 
-Messi messi = new Messi("Messi", 21, 22, 23, 25, 26, 27);
-Jugador ronaldo = new Ronaldo("Ronaldo", 39, 38, 37, 36, 35, 34);
-
+Jugador messi = new Messi("Messi", 21, 22, 23, 25, 26, 27);
+Ronaldo ronaldo = new Ronaldo("Ronaldo", 39, 38, 37, 36, 35, 34);
 
 
 PrintConsola.PrintDatosDeObjetos(messi);
 Console.WriteLine("\n");
 PrintConsola.PrintDatosDeObjetos(ronaldo);
 Console.WriteLine("\n");
+
+
 
 PrintConsola.Imprimir(messi.Nombre, messi.ColocarPase(),"Coloco un pase");
 PrintConsola.Imprimir(messi.Nombre, messi.Rematar(), "Remato");

@@ -36,9 +36,10 @@ namespace LosMejoresDeLaClase.Clases
             this.Pase = pase;
             this.Velocidad = velocidad;
         }
-
+        
         public virtual int Correr()
         {
+        
             return this.velocidad;
         }
         public virtual int Defender()
